@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jose
+- 👋 Hi, I’m José
 - 👀 I’m interested in geology, remote sensing, computer vision, tectonics, and climate science :)
 - 🌱 I’m currently learning python and shell scripting
 - 💞️ I’m looking to collaborate on GIS related subjects
