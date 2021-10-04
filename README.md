@@ -1,7 +1,7 @@
 - 👋 Hi, I’m José
 - I’m interested in geology, remote sensing, computer vision, tectonics, and climate science :)
 - I’m currently learning python and shell scripting
-- I’m looking to collaborate on GIS related subjects
+- I’m looking to collaborate on GIS + geoscience related subjects
 - How to reach me jose.marmolejo688@gmail.com
 
 <!---
